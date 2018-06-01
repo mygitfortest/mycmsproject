@@ -1,4 +1,7 @@
 @extends('layouts.admin')
 
-{{--@section('content')--}}
-{{--@stop--}}
+@section('content')
+
+    <h1>Admin</h1>
+
+@stop
