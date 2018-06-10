@@ -26,7 +26,7 @@
         </div>
         {!! Form::close() !!}
     </div>
-
+    {{--Errors--}}
     <div class="row">
         @include('includes.formErrors')
     </div>
